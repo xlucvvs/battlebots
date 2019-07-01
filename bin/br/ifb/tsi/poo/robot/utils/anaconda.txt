@@ -1,0 +1,5 @@
+Pergunta hipotetica
+
+Qual tipo de cambio você prefere?
+1 - Automatico
+2 - Manual
